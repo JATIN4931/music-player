@@ -1,0 +1,14 @@
+{
+    "song": [
+        { "songName": "sometime", "time": "03:20", "filePath": "./music/ssometimes.mp3", "coverPath": "some time.jpg " },
+        { "songName": "goodbye", "time": "02:50", "filePath": "./music/goodbye.mp3", "coverPath": "cover 2.jpg " },
+        { "songName": "dhundhala", "time": "03:03", "filePath": "./music/dhundhala.mp3", "coverPath": "cover 4.jpg " },
+        { "songName": "tu hai kahan", "time": "04:24", "filePath": "./music/tu_hai_kahan.mp3", "coverPath": "cover 3.jpg " },
+        { "songName": "mirza", "time": "01:16", "filePath": "./music/mirza.mp3", "coverPath": "cover 5.jpg " },
+        { "songName": "ijazat", "time": "01:31", "filePath": "./music/ijazat.mp3", "coverPath": "cover 6.jpg " },
+        { "songName": "i am not outsider", "time": "02:32", "filePath": "./music/peaky_blinder.mp3", "coverPath": "cover 7.jpg " },
+        { "songName": "night changes", "time": "04:01", "filePath": "./music/night_changes.mp3", "coverPath": "cover 8.jpg " },
+        { "songName": "afterhours", "time": "02:33", "filePath": "./music/afterhours.mp3", "coverPath": "cover 9.jpg " },
+        { "songName": "Maharani", "time": "06:30", "filePath": "./music/maharani.mp3", "coverPath": "cover 10.jpg " }
+    ]
+}
